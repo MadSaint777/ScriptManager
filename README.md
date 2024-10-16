@@ -14,3 +14,4 @@
             {'script': 'bots/bot3/main.py', 'name': 'Бот 8'},
             # Добавьте остальные скрипты
         ]
+![image](https://github.com/user-attachments/assets/19299409-1910-4597-86a3-57fcdc7ee2df)
